@@ -1,0 +1,73 @@
+﻿<Window x:Class="Siramatik.HastaKabul"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Siramatik"
+        mc:Ignorable="d"
+        Title="Hasta Kabul" Height="528.5" Width="721"
+         Icon="Images\dd.ico" Loaded="Window_Loaded" KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF0FDEB9" Offset="1"/>
+                <GradientStop Color="#FF0CB99A" Offset="0.828"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Canvas Loaded="Window_Loaded" Grid.Column="0">
+            <Button Height="30" Width="30" Canvas.Left="5" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="geri" Canvas.Top="6">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/back-image.png"/>
+                </Button.Background>
+            </Button>
+        </Canvas>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <GroupBox Header="Arama" Grid.Column="0">
+                <DockPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="5">
+                            <TextBlock Text="Hasta TC Kimlik No" Style="{StaticResource textblock3}"/>
+                            <TextBox Name="txtTC" MinHeight="22" TextChanged="txtTC_TextChanged"/>
+                            <Button Content="Ara" Style="{StaticResource button2Style}" MinHeight="45" Click="Button_Click_3" FontSize="20" Height="29" Margin="10,5"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Margin="5">
+                            <TextBlock Text="Doktor" Style="{StaticResource textblock3}"/>
+                            <ComboBox Name="cmbDoktor"/>
+                            <TextBlock Text="Hasta Önceliği" Style="{StaticResource textblock3}"/>
+                            <ComboBox Name="cmbOncelik"/>
+                        </StackPanel>
+                    </Grid>
+                </DockPanel>
+            </GroupBox>
+            <Button Grid.Column="1" Content="Sıra Ver" Margin="5,8,5,0" Style="{StaticResource button}" FontSize="28" Click="Button_Click_2"/>
+        </Grid>
+        <GroupBox Header="Hasta Bilgileri" Grid.Row="2" Margin="0,5,10,0">
+            <DataGrid Name="dataGrid1" Margin="5" SelectionChanged="DataGrid_SelectionChanged"/>
+        </GroupBox>
+        <Grid Grid.Row="3" >
+            <DockPanel HorizontalAlignment="Center" >
+                <Button Width="100" Margin="0,10,25,10" MaxHeight="75"  Click="Button_Click">
+                    <TextBlock Text="Yeni Kayıt" Style="{StaticResource textblock3}"/>
+                </Button>
+                <Button Width="100" Margin="25,10,0,10" MaxHeight="75" Click="Button_Click_1">
+                    <TextBlock Text="Düzenle" Style="{StaticResource textblock3}"/>
+                </Button>
+            </DockPanel>
+        </Grid>
+    </Grid>
+</Window>

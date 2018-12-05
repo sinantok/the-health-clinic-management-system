@@ -1,0 +1,73 @@
+﻿<Window x:Class="Siramatik.DoktorKayit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Siramatik"
+        mc:Ignorable="d"
+        RenderOptions.BitmapScalingMode="HighQuality"
+        Title="Doktor Kayıt" Height="500" Width="700"
+        Icon="Images\dd.ico" Loaded="Window_Loaded" KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF0FDEB9" Offset="1"/>
+                <GradientStop Color="#FF0CB99A" Offset="0.828"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Canvas Loaded="Window_Loaded">
+            <Button  Height="30" Width="40" Canvas.Left="11" Click="Button_Click" Canvas.Top="4" BorderBrush="{x:Null}" Foreground="{x:Null}" ToolTip="Bir Önceki Sayfaya Git">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/back-image.png"/>
+                </Button.Background>
+            </Button>
+        </Canvas>
+        <DataGrid Name="dataGrid1" Grid.Row="0" Margin="10,40,10,10" IsReadOnly="True" SelectionChanged="dataGrid1_SelectionChanged">
+            <DataGrid.Columns>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <GroupBox Header="İşlemler" Grid.Row="1" Margin="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0" Margin="15">
+                    <DockPanel Margin="0,0,0,10">
+                        <TextBlock Text="TC NO:" Style="{StaticResource textblock2}"/>
+                        <TextBox Name="txtTC"  Style="{StaticResource textboxStyle}" MaxLength="11"/>
+                    </DockPanel>
+                    <DockPanel Margin="0,0,0,10">
+                        <TextBlock Text="AD:" Style="{StaticResource textblock2}"/>
+                        <TextBox Name="txtAd" Style="{StaticResource textboxStyle}"/>
+                    </DockPanel>
+                    <DockPanel Margin="0,0,0,10">
+                        <TextBlock Text="SOYAD:" Style="{StaticResource textblock2}"/>
+                        <TextBox Name="txtSoyad" Style="{StaticResource textboxStyle}"/>
+                    </DockPanel>
+                    <DockPanel Margin="0,0,0,10">
+                        <TextBlock Text="ŞİFRE:" Style="{StaticResource textblock2}"/>
+                        <PasswordBox Name="txtSifre" ToolTip="Şifre En Az 4 Haneli Olmalı" />
+                    </DockPanel>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Margin="15">
+                    <Button Style="{StaticResource button2Style}" Click="Button_Click_3">
+                        <TextBlock Text="Kaydet"/>
+                    </Button>
+                    <Button Style="{StaticResource button2Style}" Click="Button_Click_2">
+                        <TextBlock Text="Güncelle"/>
+                    </Button>
+                    <Button Style="{StaticResource button2Style}" Click="Button_Click_4">
+                        <TextBlock Text="Sil"/>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

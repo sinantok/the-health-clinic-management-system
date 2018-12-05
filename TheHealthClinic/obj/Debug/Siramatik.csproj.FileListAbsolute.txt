@@ -1,0 +1,192 @@
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\bin\Debug\Siramatik.exe.config
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\bin\Debug\Siramatik.exe
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\bin\Debug\Siramatik.pdb
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik.csprojResolveAssemblyReference.cache
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\MainWindow.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\App.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.cache
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.lref
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\MainWindow.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik.g.resources
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik.Properties.Resources.resources
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.GenerateResource.Cache
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.CoreCompileInputs.cache
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik.exe
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Siramatik.pdb
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\App.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Styles\Texts.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\DoktorGiris.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\DoktorGiris.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\HemsireGiris.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\HemsireGiris.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Poliklinik.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Poliklinik.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\Styles\Buttons.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\DoktorKayit.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\DoktorKayit.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\HemsireKayit.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\HemsireKayit.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\hastakabul.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\hastakabul.baml
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\YeniSifre.g.cs
+C:\Users\Hidayet Arslan\Siramatik\Siramatik\obj\Debug\YeniSifre.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\bin\Debug\Siramatik.exe.config
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\bin\Debug\Siramatik.exe
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\bin\Debug\Siramatik.pdb
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.csprojResolveAssemblyReference.cache
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\DoktorKayit.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HastaKabul.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HemsireGiris.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HemsireKayit.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\MainWindow.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Poliklinik.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\DoktorGiris.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\YeniSifre.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\App.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.cache
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.lref
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\App.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\DoktorKayit.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HastaKabul.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HemsireGiris.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HemsireKayit.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\MainWindow.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Poliklinik.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Styles\Buttons.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Styles\Texts.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\DoktorGiris.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\YeniSifre.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.g.resources
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.Properties.Resources.resources
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.GenerateResource.Cache
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.CoreCompileInputs.cache
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.exe
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.pdb
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HastaKayit.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HastaKayit.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\OnayEkrani.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\MonitorEkrani.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HastaDuzenle.g.cs
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\OnayEkrani.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\MonitorEkrani.baml
+C:\Users\Hidayet Arslan\Desktop\Siramatik\Siramatik\obj\Debug\HastaDuzenle.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\bin\Debug\Siramatik.exe.config
+C:\Users\user\Desktop\Siramatik\Siramatik\bin\Debug\Siramatik.exe
+C:\Users\user\Desktop\Siramatik\Siramatik\bin\Debug\Siramatik.pdb
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\OnayEkrani.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\MonitorEkrani.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\DoktorKayit.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HastaDuzenle.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HastaKabul.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HastaKayit.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HemsireGiris.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HemsireKayit.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Poliklinik.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\DoktorGiris.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\YeniSifre.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.cache
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.lref
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\App.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\OnayEkrani.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\MonitorEkrani.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\DoktorKayit.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HastaDuzenle.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HastaKabul.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HastaKayit.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HemsireGiris.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\HemsireKayit.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Poliklinik.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Styles\Buttons.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Styles\Texts.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\DoktorGiris.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\YeniSifre.baml
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.g.resources
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.Properties.Resources.resources
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.exe
+C:\Users\user\Desktop\Siramatik\Siramatik\obj\Debug\Siramatik.pdb
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\bin\Debug\Siramatik.exe.config
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\bin\Debug\Siramatik.exe
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\bin\Debug\Siramatik.pdb
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik.csprojResolveAssemblyReference.cache
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\OnayEkrani.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\MonitorEkrani.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\DoktorKayit.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HastaDuzenle.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HastaKabul.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HastaKayit.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HemsireGiris.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HemsireKayit.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\MainWindow.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Poliklinik.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\DoktorGiris.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\YeniSifre.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\App.g.cs
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.cache
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.lref
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\App.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\OnayEkrani.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\MonitorEkrani.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\DoktorKayit.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HastaDuzenle.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HastaKabul.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HastaKayit.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HemsireGiris.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\HemsireKayit.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\MainWindow.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Poliklinik.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Styles\Buttons.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Styles\Texts.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\DoktorGiris.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\YeniSifre.baml
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik.g.resources
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik.Properties.Resources.resources
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.GenerateResource.Cache
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.CoreCompileInputs.cache
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik.exe
+C:\Users\Hidayet Arslan\Desktop\sıramatik programı\Siramatik\Siramatik\obj\Debug\Siramatik.pdb
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik.csprojAssemblyReference.cache
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\OnayEkrani.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\MonitorEkrani.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\DoktorKayit.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HastaDuzenle.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HastaKabul.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HastaKayit.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HemsireGiris.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HemsireKayit.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\MainWindow.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Poliklinik.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\DoktorGiris.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\YeniSifre.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\App.g.cs
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.cache
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik_MarkupCompile.lref
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik.exe
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik.pdb
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\bin\Debug\Siramatik.exe.config
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\bin\Debug\Siramatik.exe
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\bin\Debug\Siramatik.pdb
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\App.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\OnayEkrani.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\MonitorEkrani.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\DoktorKayit.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HastaDuzenle.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HastaKabul.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HastaKayit.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HemsireGiris.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\HemsireKayit.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\MainWindow.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Poliklinik.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Styles\Buttons.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Styles\Texts.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\DoktorGiris.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\YeniSifre.baml
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik.g.resources
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik.Properties.Resources.resources
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.GenerateResource.cache
+C:\Users\Sinan\Desktop\son hali\Siramatik\Siramatik\obj\Debug\Siramatik.csproj.CoreCompileInputs.cache
